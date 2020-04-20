@@ -1,0 +1,18 @@
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\bin\Debug\28 CRM_System.exe.config
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\bin\Debug\28 CRM_System.exe
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\bin\Debug\28 CRM_System.pdb
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\28 CRM_System.csprojAssemblyReference.cache
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.AddClient.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.AddComplaint.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.AddService.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.ChangePwd.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.Client.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.Form1.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.Main.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.Properties.Resources.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.SelectClient.resources
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\28 CRM_System.csproj.GenerateResource.cache
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\28 CRM_System.csproj.CoreCompileInputs.cache
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\28 CRM_System.exe
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\28 CRM_System.pdb
+D:\project\csharpworkspace\28 CRM_System\28 CRM_System\obj\Debug\_28_CRM_System.About.resources
