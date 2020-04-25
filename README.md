@@ -17,8 +17,9 @@
    insert manager values ('abc',substring(sys.fn_sqlvarbasetostr(HashBytes('MD5','123')),3,32));
    ```
 
-   [^abc]: 管理员账号
-   [^123]: 管理员密码
+   abc ： 管理员账号
+
+   123 ： 管理员密码
 
    
 
