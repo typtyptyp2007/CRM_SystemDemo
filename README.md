@@ -11,7 +11,18 @@
 
 2. 数据库使用SqlServer
 
-3. 有什么问题可以直接提issue
+3. 需要添加管理员账号才能登陆，具体sql如下：
+
+   ```sql
+   insert manager values ('abc',substring(sys.fn_sqlvarbasetostr(HashBytes('MD5','123')),3,32));
+   ```
+
+   [^abc]: 管理员账号
+   [^123]: 管理员密码
+
+   
+
+4. 有什么问题可以直接提issue
 
     
 
